@@ -1,0 +1,17 @@
+.standard,
+.standard-plus {
+    background-color: #ff9999;
+    font: Verdana, "DejaVu Sans", sans-serif;
+}
+.standard-plus{
+    font-size: 36px;
+}
+#two {
+    color: #0000ff;
+    font-size: 36px;
+}
+#four {
+    background-color: #70db70;
+    font-size: 24px;
+    font-weight: bold;
+}
