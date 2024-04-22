@@ -1,0 +1,13 @@
+.left,
+.right{
+    font-size: 28px;
+    font-style: Helvetica, "Times New Roman, sans-serif";
+}
+.left{
+    color: white;
+    background-color: black;
+    font-weight: bold;
+}
+.right{
+    background-color: #ffff33;
+}
