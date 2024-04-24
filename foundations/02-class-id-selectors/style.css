@@ -1,9 +1,9 @@
-.standard,
-.standard-plus {
+.odd,
+.three {
     background-color: #ff9999;
-    font: Verdana, "DejaVu Sans", sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
-.standard-plus{
+.three{
     font-size: 36px;
 }
 #two {
